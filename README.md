@@ -1,2 +1,0 @@
-# KoKoNut
-KoKoNut repo
