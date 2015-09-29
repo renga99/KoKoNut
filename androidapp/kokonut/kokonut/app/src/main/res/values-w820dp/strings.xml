@@ -1,4 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">KoKoNut</string>
 
 
@@ -13,7 +15,4 @@
     <string name="AddressTwoHint">Narayanagatta , Bangalore  - 560099</string>
     <string name="AddressOneHint">No 120, Asset Placid</string>
     <string name="MobileNumberHint">Enter 10 digit mobile number</string>
-    <string name="title_activity_splash">SplashActivity</string>
-
-    <string name="hello_world">Hello world!</string>
 </resources>
